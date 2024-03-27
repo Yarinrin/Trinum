@@ -1,0 +1,21 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url('lebron_james.jpg'); /* Replace 'lebron_james.jpg' with the actual path to your image */
+    background-size: cover;
+}
+
+input, button {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+p {
+    font-weight: bold;
+    color: white; /* Ensure text is readable on the image background */
+}
